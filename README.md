@@ -5,7 +5,8 @@
 <!-- Goal: make it beautiful -->
 <!-- Goal: use cheatsheets -->
 
-<!-- STEPS -->
+<!-- INITIAL SETUP STEPS -->
+
 <!-- Create a new Github Repository on GitHub  -->
 <!-- Add a description README license. [Create repository]  -->
 <!-- Open Terminal -->
@@ -13,20 +14,33 @@
 <!-- Clone the repo to local directory  -->
 <!-- cd into _Project directory  -->
 <!-- Open project in VS Code -->
-<!-- Track changes with $ git add . -->
-<!-- Add LOG.md README file -->
+
+<!-- END: INITIAL SETUP STEPS -->
+
+<!-- ENVIRONMENT Decisions -->
+<!-- Use Babel to write code in the latest version of Javascript -->
+<!-- create index.html -->
+
+<!-- Requirements -->
+
+<!-- END: CREATE ENVIRONMENT STEPS -->
+
+
 <!-- Update README file -->
+<!--  -->
+
+
 
 
 **Create a new GitHub Repo**
 
  1. Log in to **GitHub** and create a **new repo**
 
-![alt text](assets/screenshots/01-github-new.png)
+<!-- ![alt text](assets/screenshots/01-github-new.png) -->
 
 2. Add a **description**, **README**, **license** and click **Create repository**
 
-![alt text](assets/screenshots/02-github-new.png)
+<!-- ![alt text](assets/screenshots/02-github-new.png) -->
 
 3. Clone the repository to your **local machine**
 - Open Terminal and navigate to the **local repos directory** 
