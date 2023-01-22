@@ -18,7 +18,10 @@
 <!-- END: INITIAL SETUP STEPS -->
 
 <!-- ENVIRONMENT Decisions -->
+<!-- Use npm -->
+<!-- $ npm init -->
 <!-- Use Babel to write code in the latest version of Javascript -->
+<!-- npm install --save-dev @babel/core @babel/cli -->
 <!-- create index.html -->
 
 <!-- Requirements -->
