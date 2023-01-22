@@ -4,6 +4,7 @@
   "description": "A forkable base repo for future coding projects",
   "main": "index.js",
   "scripts": {
+    "build": "babel src -d lib",
     "test": "jest"
   },
   "repository": {
