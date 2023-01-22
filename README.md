@@ -4,7 +4,7 @@ A simple, forkable repo for future coding projects.
 
 Includes:
 - **Babel** for Javascript compilation
-- **Jest** testing Framework 
+- **Jest** testing Framework
 
 <!-- Aim: Log the step by step process to create a forkable base repo for future coding projects. -->
 
