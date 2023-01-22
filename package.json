@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "description": "A forkable base repo for future coding projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itroy/_Project.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Troy Ginbey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itroy/_Project/issues"
+  },
+  "homepage": "https://github.com/itroy/_Project#readme"
+}
