@@ -22,11 +22,11 @@
 
  1. Log in to **GitHub** and create a **new repo**
 
-<!-- ![alt text](assets/screenshots/01-github-new.png) -->
+![alt text](assets/screenshots/01-github-new.png)
 
 2. Add a **description**, **README**, **license** and click **Create repository**
 
-<!-- ![alt text](assets/screenshots/02-github-new.png) -->
+![alt text](assets/screenshots/02-github-new.png)
 
 3. Clone the repository to your **local machine**
 - Open Terminal and navigate to the **local repos directory** 
