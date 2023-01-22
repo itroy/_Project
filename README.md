@@ -1,6 +1,12 @@
-# _Project: Forkable Github Repo 
+# _Project
 
-<!-- Aim: Log the step by step process to create a forkable base project  for future coding projects. -->
+A simple, forkable repo for future coding projects.
+
+Includes:
+- **Babel** for Javascript compilation
+- **Jest** testing Framework 
+
+<!-- Aim: Log the step by step process to create a forkable base repo for future coding projects. -->
 
 <!-- Goal: make it beautiful -->
 <!-- Goal: use cheatsheets -->
@@ -21,7 +27,9 @@
 <!-- Use npm -->
 <!-- $ npm init -->
 <!-- Use Babel to write code in the latest version of Javascript -->
-<!-- npm install --save-dev @babel/core @babel/cli -->
+<!-- $ npm install --save-dev @babel/core @babel/cli -->
+<!-- Use Jest testing framework -->
+<!-- $ npm install --save-dev jest -->
 <!-- create index.html -->
 
 <!-- Requirements -->
